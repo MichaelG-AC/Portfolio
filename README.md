@@ -38,5 +38,5 @@ You can download my Resume [here](https://drive.google.com/file/d/1iIrErlI5Oo90X
 ### Connect with Me
 Feel free to reach out if you have any questions about my work or would like to collaborate on QA projects!
 
-**LinkedIn** [https://www.linkedin.com/in/michael-g-atip-castronuevo/]
+**LinkedIn** https://www.linkedin.com/in/michael-g-atip-castronuevo/
 **Email** matipcastronuevo@gmail.com
