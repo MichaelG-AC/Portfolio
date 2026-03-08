@@ -19,15 +19,11 @@ You can download my Resume [here](https://drive.google.com/file/d/1iIrErlI5Oo90X
 - Cross-Functional Collaboration: Adept at partnering with developers, business analysts, and product owners to ensure software meets both functional requirements and user-experience standards.
 
 ### Examples of My Work
-- Manual Test Cases
-  - [Real Estate Industry - Qase.io](https://drive.google.com/drive/u/1/folders/1x79dK2VVzfmpYkdc2Vx4rMteGMDG9KXI)
-  - [Health Tech Industry - Zephyr](https://drive.google.com/drive/u/1/folders/1GBi7LVvYJNX-I00Ut48OfOQo5n4TRjDH)
 - Automated Test Scripts
-  - [Saas Industry - Smoke Test](https://github.com/PamDH/Jahnel-Group-Project)
-  - [Real Estate Industry](https://github.com/PamDH/REWorkflow)
-- [Bug Reports](https://drive.google.com/drive/u/1/folders/1kIQha3MIOI-z_aaWosH3QDWk-349XnwT)
-- [Postman Collection](https://drive.google.com/drive/u/1/folders/1493wJky0fj2wuo6_4UPd9yRdbWJB36Ar) - Import the .json files directly into your Postman app to see how I handle API testing.
-- [Test Documents](https://drive.google.com/drive/u/1/folders/1gFjDjB7OBKwGtYqhMYoT5n4mXp9FkDy8)
+  - https://github.com/MichaelG-AC/BlackCloak-Automation-Demo
+  - https://github.com/MichaelG-AC/PeaconPOS-Automation-demo
+  - https://github.com/MichaelG-AC/QualitestGroup-Automation-Demo
+  - https://github.com/MichaelG-AC/Moxie-Automation-demo
   
 ### Tools
 **Testing Frameworks:** Playwright, JavaScript  
