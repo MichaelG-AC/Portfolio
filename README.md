@@ -1,23 +1,22 @@
 # Portfolio
 
-Welcome to my QA Engineer Portfolio repository! This space highlights my experience in software quality assurance, showcasing various test cases, 
-bug reports, and API testing collections to demonstrate my skills in manual and automated testing.
+Welcome to my QA Engineer Portfolio repository! This space reflects my experience in software quality assurance, featuring a curated collection of test cases, bug reports, and API testing assets that demonstrate my expertise in both manual and automated testing.
 
 ### About Me
-I’m **Pamela Harraway**, a passionate QA Engineer with 5 years of experience ensuring high-quality software across various industries. My journey into QA began during my time as a teacher, where I managed multiple educational applications. As the go-to person for testing and identifying bugs, I worked closely with developers in my district. That’s when I discovered my love for QA, and after completing a bootcamp, I transitioned into a professional role.
+I'm **Michael Atip Castronuevo**, a dedicated QA Engineer with 5 years of experience delivering high-quality software solutions across diverse industries. My journey in QA began as a QA/QC Engineer, where I took on a broad range of responsibilities and quickly became the subject-matter expert for testing and defect identification — collaborating closely with development teams to drive quality at every stage.
 
-At Diversociete, I honed my front-end testing skills, focusing on eCommerce applications while diving into database validation and API testing. Now, at Playball, I ensure the quality of sports tech applications, conducting thorough web and mobile testing. My expertise spans automation testing, API testing with Postman, and SQL validation using MySQL to ensure data integrity.
+At MGAC & 100Devs Agency, I strengthened my testing expertise with a focus on eCommerce applications, expanding my skill set to include database validation and API testing. Now at Foxyou, I oversee the quality of video technology applications through comprehensive web testing. My expertise encompasses test automation, API testing with Postman, and SQL validation using MySQL to ensure data integrity.
 
-I pride myself on writing detailed test cases, managing defects, and actively contributing to Agile processes. With experience in tools like JIRA, Zephyr, and Qase.io, I thrive in fast-paced environments with tight release cycles, always ensuring software quality before it reaches users. I’m also skilled in collaborating with both onshore and offshore teams, and I bring a proactive approach to problem-solving and continuous improvement.
+I take pride in crafting thorough test cases, managing defect lifecycles, and actively contributing to Agile methodologies. With hands-on experience in tools such as JIRA and Zephyr, I excel in fast-paced environments with demanding release cycles — consistently upholding software quality standards before products reach end users. I am also adept at collaborating across onshore and offshore teams, bringing a proactive mindset toward problem-solving and continuous improvement.
 
 ### Resume
-You can download my Resume [here](https://drive.google.com/drive/u/1/folders/1Q4H_PTBZNax9ROvgdHkJINKcluQvvJve)
+You can download my Resume [here](https://drive.google.com/file/d/1iIrErlI5Oo90XZBZ1p7v79T3_Et0OEra/view?usp=sharing)
 
 ### Skills
-- Manual and Automated Testing: Skilled in developing detailed test plans, executing test cases, and automating workflows using tools like Cypress and JavaScript.
-- API Testing: Experience testing RESTful APIs using Postman, ensuring that the system backend operates correctly and meets business requirements.
-- SQL Querying: Perform SQL database validation
-- Cross-Functional Collaboration: I work closely with developers, business analysts, and product owners to ensure software meets both functional and user-experience standards.
+- Manual & Automated Testing: Proficient in developing comprehensive test plans, executing test cases, and automating workflows using tools such as Playwright and JavaScript.
+- API Testing: Experienced in testing RESTful APIs using Postman, validating that system backends operate correctly and align with business requirements.
+- SQL Querying: Skilled in performing SQL database validation to ensure data accuracy, consistency, and integrity.
+- Cross-Functional Collaboration: Adept at partnering with developers, business analysts, and product owners to ensure software meets both functional requirements and user-experience standards.
 
 ### Examples of My Work
 - Manual Test Cases
@@ -31,7 +30,7 @@ You can download my Resume [here](https://drive.google.com/drive/u/1/folders/1Q4
 - [Test Documents](https://drive.google.com/drive/u/1/folders/1gFjDjB7OBKwGtYqhMYoT5n4mXp9FkDy8)
   
 ### Tools
-**Testing Frameworks:** Cypress, JavaScript  
+**Testing Frameworks:** Playwright, JavaScript  
 **API Testing:** Postman, Swagger, RESTful services  
 **Bug Tracking:** JIRA, Excel  
 **Test Case Management:** Zephr Scale, Qase.io  
