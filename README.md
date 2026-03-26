@@ -21,6 +21,8 @@ You can download my Resume [here](https://drive.google.com/file/d/1iIrErlI5Oo90X
 ### Examples of My Work
 - Automated Test Scripts
   - https://github.com/MichaelG-AC/sauce-automation-demo
+- API Automated Test Scripts 
+  - https://github.com/MichaelG-AC/JSONplaceholder-api
   
 ### Tools
 **Testing Frameworks:** Playwright, JavaScript  
